@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+       
+        {
+            "name": "UPDI cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "DaconUAT",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            
+        }
+    ]
+}
