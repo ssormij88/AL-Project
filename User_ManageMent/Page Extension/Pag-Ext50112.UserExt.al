@@ -12,7 +12,7 @@ pageextension 50112 UserExt extends Users
                 Promoted = true;
                 PromotedCategory = Process;
                 PromotedIsBig = true;
-
+                ToolTip = 'Add User from Microsoft 365';
                 trigger OnAction()
                 var
                     InputUserEmailDialog: Page "Input User Email Dialog";
