@@ -10,7 +10,7 @@ page 50103 "Input User Email Dialog"
             field(UserEmail; UserEmail)
             {
                 ApplicationArea = All;
-                Caption = 'User Email';
+                Caption = 'Enter User Email';
                 ExtendedDatatype = EMail;
 
             }
