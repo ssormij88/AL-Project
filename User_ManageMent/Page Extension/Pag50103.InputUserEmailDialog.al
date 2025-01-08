@@ -10,9 +10,9 @@ page 50103 "Input User Email Dialog"
             field(UserEmail; UserEmail)
             {
                 ApplicationArea = All;
-                Caption = 'Enter User Email';
+                Caption = 'User Email';
                 ExtendedDatatype = EMail;
-
+                ToolTip = 'User Email';
             }
         }
     }
