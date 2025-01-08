@@ -29,7 +29,7 @@ pageextension 50112 UserExt extends Users
                 Promoted = true;
                 PromotedCategory = Process;
                 PromotedIsBig = true;
-
+                ToolTip = 'Delete';
                 trigger OnAction()
                 var
                     InputUserEmailDialog: Page "Input User Email Dialog";
