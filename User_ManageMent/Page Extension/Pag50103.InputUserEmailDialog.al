@@ -12,7 +12,7 @@ page 50103 "Input User Email Dialog"
                 ApplicationArea = All;
                 Caption = 'User Email';
                 ExtendedDatatype = EMail;
-                ToolTip = 'User Emailsss_';
+                ToolTip = 'User Emailsss_test';
             }
         }
     }
